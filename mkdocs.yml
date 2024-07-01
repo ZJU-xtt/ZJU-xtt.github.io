@@ -102,5 +102,5 @@ nav:
   - Home: 
     - Hello World: index.md
     - about me : about/about_me.md
-    - About markdown: markdown.md
+    - About markdown: about/markdown.md
     - building your website!: about/about1.md
